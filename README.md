@@ -175,3 +175,41 @@ export const environment = {
   },
 ```
 15. En la terminal ejecutar el proyecto con el comando `"npm start"`y se ejecutará el proyecto con la configuración del ambiente de desarrollo :)
+
+## Librerías
+
+### Instalación de Material Design para Producción.
+```
+npm install @angular/cdk
+```
+```
+npm install @angular/localize
+```
+```
+npm install @angular/material
+
+### Instalación de firebase
+```
+npm install @angular/fire@6.1.5
+```
+```
+npm install firebase@8.7.1
+```
+### Librerias para mantenimiento y store
+```
+npm install @ngrx/effects
+```
+```
+npm install @ngrx/entity
+```
+```
+npm install @ngrx/store
+```
+```
+npm install @ngrx/store-devtools
+```
+
+### Mantenimiento de imágenes
+```
+npm install ngx-image-cropper
+```
