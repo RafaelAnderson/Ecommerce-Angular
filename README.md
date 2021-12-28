@@ -187,6 +187,7 @@ npm install @angular/localize
 ```
 ```
 npm install @angular/material
+```
 
 ### Instalación de firebase
 ```
@@ -195,6 +196,7 @@ npm install @angular/fire@6.1.5
 ```
 npm install firebase@8.7.1
 ```
+
 ### Librerias para mantenimiento y store
 ```
 npm install @ngrx/effects
