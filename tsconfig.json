@@ -2,6 +2,8 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    /*Omite la comprobación del tipo de archivos de declaración*/
+    "skipLibCheck": true,
     /*Las referencias de los archivos apuntan desde src*/
     "baseUrl": "src",
     "paths": {
