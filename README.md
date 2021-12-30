@@ -221,3 +221,4 @@ npm install ngx-image-cropper
 * [BEM](https://en.bem.info/)
 * [Material Design Color](https://material.io/design/color/the-color-system.html)
 * [Material Resources](https://material.io/resources)
+* [Fonts](https://fonts.google.com/)
