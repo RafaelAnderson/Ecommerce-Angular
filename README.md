@@ -222,3 +222,7 @@ npm install ngx-image-cropper
 * [Material Design Color](https://material.io/design/color/the-color-system.html)
 * [Material Resources](https://material.io/resources)
 * [Fonts](https://fonts.google.com/)
+
+## Creación de modulo y componente
+* ng g module RUTA --routing
+* ng g component RUTA
